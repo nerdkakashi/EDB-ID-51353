@@ -1,4 +1,4 @@
-#!/usr/bin/ python
+#!/usr/bin/python
 
 from pwn import *
 from sys import exit
