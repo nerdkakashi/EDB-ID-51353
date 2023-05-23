@@ -18,3 +18,4 @@ Steps: For getting Shell
 ![image](https://user-images.githubusercontent.com/25599963/235438235-fd6057da-d1fd-44b7-9b4e-f083d5910782.png)
 
 
+https://www.exploit-db.com/exploits/51353
